@@ -1,3 +1,7 @@
+---
+title: Hackathon BioDataUCO
+---
+
 ## 2, 3 y 4 de marzo
 
 # Ven a explorar el potencial del Machine Learning aplicado a las Ciencias de la Vida
