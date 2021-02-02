@@ -13,7 +13,7 @@ Desarrolla tus habilidades de análisis de datos y de trabajo en equipo en estas
 ## Perfiles objetivo
 
 * Estudiantes de Grado/Máster (Informática, Genética, Gestión Forestal)
-* Tanto miembros de la UCO como externos son bienvenidos
+* Abierto tanto a miembros de la UCO como gente externa
 
 ## Premios
 
