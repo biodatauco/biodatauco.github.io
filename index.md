@@ -13,10 +13,22 @@ Desarrolla tus habilidades de **análisis de datos** y de **trabajo en equipo** 
 
 ## Perfiles objetivo
 
-* Estudiantes de Grado/Máster (Informática, Genética, Gestión Forestal)
-* Abierto tanto a miembros de la UCO como gente externa
+La actividad está orientada para estudiantes de Grado y Máster de alguna de las áreas afines:
+* Informática
+* Gestión Forestal
+* Genética
+
+Se formarán grupos mixtos de acuerdo a las habilidades aportadas por cada participante.
+
+Es preferible tener un dominio al menos básico de programación (R o Python), aunque se impartirán unas pautas básicas para agilizar los proyectos.
+
+La inscripción está abierta tanto a miembros de la UCO como a participantes externos a la Universidad.
 
 ## Premios
 
-* Merchandising para todos los participantes
-* Premios por categoría (representación, modelado)
+Merchandising disponible para todos los participantes.
+
+Se entregarán varios premios por categoría:
+- Representación gráfica de los datos
+- Interpretación de los resultados
+- Mejor ajuste del modelo
