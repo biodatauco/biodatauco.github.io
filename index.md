@@ -7,7 +7,9 @@ title: Hackathon BioDataUCO
 
 # Ven a explorar el potencial del Machine Learning aplicado a las Ciencias de la Vida
 
-Desarrolla tus habilidades de análisis de datos y de trabajo en equipo en estas jornadas online. Únete a grupo multidisciplinar y diseñad un proyecto de modelado relacionado con la genética y la biodiversidad.
+Desarrolla tus habilidades de **análisis de datos** y de **trabajo en equipo** en estas jornadas online.
+
+Únete a grupo multidisciplinar y diseñad un proyecto de modelado relacionado con la **genética** y la **biodiversidad**.
 
 ## Perfiles objetivo
 
