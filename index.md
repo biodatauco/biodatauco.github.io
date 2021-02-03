@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hackathon BioDataUCO
+title: Hackathon online BioDataUCO
 ---
 
 [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
