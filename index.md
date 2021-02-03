@@ -1,8 +1,7 @@
 ---
+layout: default
 title: Hackathon BioDataUCO
 ---
-
-## 2, 3 y 4 de marzo
 
 [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
 
