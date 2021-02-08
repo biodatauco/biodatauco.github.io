@@ -3,7 +3,7 @@ layout: default
 title: Hackathon online BioDataUCO
 ---
 
-## [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
+# [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
 
 # Ven a explorar el potencial del Machine Learning aplicado a las Ciencias de la Vida
 
@@ -22,7 +22,7 @@ Se formarán grupos mixtos de acuerdo a las habilidades aportadas por cada parti
 
 Es preferible tener un dominio al menos básico de programación (R o Python), aunque se impartirán unas pautas básicas para agilizar los proyectos.
 
-La inscripción está abierta tanto a miembros de la UCO como a participantes externos a la Universidad.
+El número máximo de inscritos es de 30 participantes. La inscripción está abierta tanto a miembros de la UCO como a participantes externos a la Universidad. Se hará una selección de acuerdo a perfiles prioritarios, áreas de conocimiento y orden de inscripción. [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
 
 ## Premios
 
@@ -33,4 +33,4 @@ Se entregarán varios premios por categoría:
 - Interpretación de los resultados
 - Mejor ajuste del modelo
 
-### Actividad incluida en el Proyecto de Innovación de la Universidad de Córdoba (Ref: 2020-2-5003).
+### Actividad incluida en el Proyecto de Innovación Docente de la Universidad de Córdoba (Ref: 2020-2-5003).
