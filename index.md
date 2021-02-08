@@ -3,7 +3,7 @@ layout: default
 title: Hackathon online BioDataUCO
 ---
 
-[¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
+## [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
 
 # Ven a explorar el potencial del Machine Learning aplicado a las Ciencias de la Vida
 
@@ -13,10 +13,10 @@ Desarrolla tus habilidades de **análisis de datos** y de **trabajo en equipo** 
 
 ## Perfiles objetivo
 
-La actividad está orientada para estudiantes de Grado y Máster de alguna de las áreas afines:
-* Informática
-* Gestión Forestal
-* Genética
+La actividad está orientada para estudiantes de Grado y Máster de la Universidad de Córdoba de alguna de las áreas afines:
+* Informática. Grado Ingeniería Informática
+* Gestión Forestal. Máster GEOFOREST. 
+* Genética. Máster en Biotecnología Molecular, Celular y Genética.
 
 Se formarán grupos mixtos de acuerdo a las habilidades aportadas por cada participante.
 
@@ -32,3 +32,5 @@ Se entregarán varios premios por categoría:
 - Representación gráfica de los datos
 - Interpretación de los resultados
 - Mejor ajuste del modelo
+
+### Actividad incluida en el Proyecto de Innovación de la Universidad de Córdoba (Ref: 2020-2-5003).
