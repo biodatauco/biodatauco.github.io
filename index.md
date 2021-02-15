@@ -13,16 +13,18 @@ Desarrolla tus habilidades de **análisis de datos** y de **trabajo en equipo** 
 
 ## Perfiles objetivo
 
-La actividad está orientada para estudiantes de Grado y Máster de la Universidad de Córdoba de alguna de las áreas afines:
+La actividad está orientada preferentemente a estudiantes de Grado y Máster de la Universidad de Córdoba de alguna de las áreas afines:
 * Informática. Grado Ingeniería Informática
 * Gestión Forestal. Máster GEOFOREST. 
 * Genética. Máster en Biotecnología Molecular, Celular y Genética.
+
+Sin embargo, la inscripción está abierta a todos los miembros de la UCO, así como a participantes externos. Se hará una selección de acuerdo a perfiles prioritarios, áreas de conocimiento y orden de inscripción. [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
 
 Se formarán grupos mixtos de acuerdo a las habilidades aportadas por cada participante.
 
 Es preferible tener un dominio al menos básico de programación (R o Python), aunque se impartirán unas pautas básicas para agilizar los proyectos.
 
-El número máximo de inscritos es de 30 participantes. La inscripción está abierta tanto a miembros de la UCO como a participantes externos a la Universidad. Se hará una selección de acuerdo a perfiles prioritarios, áreas de conocimiento y orden de inscripción. [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
+El número máximo de inscritos es de 30 participantes. 
 
 ## Premios
 
