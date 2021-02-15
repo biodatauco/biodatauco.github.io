@@ -18,7 +18,7 @@ La actividad está orientada preferentemente a estudiantes de Grado y Máster de
 * Gestión Forestal. Máster GEOFOREST. 
 * Genética. Máster en Biotecnología Molecular, Celular y Genética.
 
-Sin embargo, la inscripción está abierta a todos los miembros de la UCO, así como a participantes externos. Se hará una selección de acuerdo a perfiles prioritarios, áreas de conocimiento y orden de inscripción. [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
+Sin embargo, la inscripción está abierta a todos los alumnos de la UCO, así como a participantes externos. Se hará una selección de acuerdo a perfiles prioritarios, áreas de conocimiento y orden de inscripción. [¡Inscríbete!](https://forms.gle/M7BYgyrxZukiXfhAA)
 
 Se formarán grupos mixtos de acuerdo a las habilidades aportadas por cada participante.
 
