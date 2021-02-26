@@ -26,6 +26,3 @@ De igual forma, se proporciona un video introductorio sobre genética que te per
 ### Video sobre diversidad forestal
 Por último, se proporciona un video introductorio sobre la diversidad forestal, que será la otra temática que se trabajará en este Hackathon.
 * [Vídeo de diversidad forestal](https://drive.google.com/file/d/134Tzo0DaOwCETH4WCv5Yd3cTuqECFRRE/view)
-
-## Merchandising
-En los próximos días esperamos tener listo todo el merchandising que os comentamos en el anterior correo para que podáis recogerlos en los puntos que os indiquemos.
