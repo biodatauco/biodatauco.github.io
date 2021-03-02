@@ -31,7 +31,7 @@ Por último, se proporciona un video introductorio sobre la diversidad forestal,
 
 [Enlace a la videoconferencia](https://eu.bbcollab.com/guest/0f1fbc2662324486a00b1e1d1dd2afaa) por Blackboard collaborate
 
-Instrucciones para el primer reto del Hackathon: [Aquí puedes revisar la guía] (https://docs.google.com/document/d/1ImMwB0PvvP6HSBb5wAku7GXBT8SO1tCNaaJozuOZhfQ/edit?usp=sharing). El reto se hará por equipos que organizaremos al principio de la sesión.
+Instrucciones para el primer reto del Hackathon: [Aquí puedes revisar la guía](https://docs.google.com/document/d/1ImMwB0PvvP6HSBb5wAku7GXBT8SO1tCNaaJozuOZhfQ/edit?usp=sharing). El reto se hará por equipos que organizaremos al principio de la sesión.
 
 Organización del primer día de Hackathon:
 
