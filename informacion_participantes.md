@@ -26,3 +26,22 @@ De igual forma, se proporciona un video introductorio sobre genética que te per
 ### Video sobre diversidad forestal
 Por último, se proporciona un video introductorio sobre la diversidad forestal, que será la otra temática que se trabajará en este Hackathon.
 * [Vídeo de diversidad forestal](https://drive.google.com/file/d/134Tzo0DaOwCETH4WCv5Yd3cTuqECFRRE/view)
+
+# DÍA 1
+
+[Enlace a la videoconferencia](https://eu.bbcollab.com/guest/0f1fbc2662324486a00b1e1d1dd2afaa) por Blackboard collaborate
+
+Instrucciones para el primer reto del Hackathon: [Aquí puedes revisar la guía] (https://docs.google.com/document/d/1ImMwB0PvvP6HSBb5wAku7GXBT8SO1tCNaaJozuOZhfQ/edit?usp=sharing). El reto se hará por equipos que organizaremos al principio de la sesión.
+
+Organización del primer día de Hackathon:
+
+| Horario | Contenido                                                                                                                            |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 10 min  | Presentación hackathon                                                                                                               |
+| 10 min  | Presentación sesión 1 - explicación breve de la guía con objetivo general                                                            |
+| 30 min  | Por Grupos. Organización de tareas y pasos entre el equipo para realizar la tarea descrita. Cada grupo trabajará en un GoogleCollab. |
+| 20 min  | Plenaria. Resolución de dudas generales                                                                                              |
+| 2.5 h   | Trabajo en grupo                                                                                                                     |
+| 20 min  | Plenaria. Resolución de dudas generales y pasos para la siguiente sesión                                                             |
+
+
