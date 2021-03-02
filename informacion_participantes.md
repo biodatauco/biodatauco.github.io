@@ -50,4 +50,16 @@ Organización del primer día de Hackathon:
 | 2.5 h   | Trabajo en grupo                                                                                                                     |
 | 20 min  | Plenaria. Resolución de dudas generales y pasos para la siguiente sesión                                                             |
 
+# DÍA 2
 
+[Enlace a la videoconferencia](https://eu.bbcollab.com/guest/0f1fbc2662324486a00b1e1d1dd2afaa) por Blackboard collaborate
+
+Instrucciones para el segundo reto del Hackathon:[Aquí puedes revisar la guía](https://docs.google.com/document/d/1QAaM7yqILnGnykDd4QEXZtS0YFNRgD81VDWvOiBs2SY/edit?usp=sharing)
+
+| Horario | Contenido                                                                                                                            |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 20 min  | Presentación sesión 2 - explicación breve de la guía con objetivo general                                                            |
+| 30 min  | Por Grupos. Organización de tareas y pasos entre el equipo para realizar la tarea descrita. Cada grupo trabajará en un GoogleCollab. |
+| 20 min  | Plenaria. Resolución de dudas generales                                                                                              |
+| 2.5 h   | Trabajo en grupo                                                                                                                     |
+| 20 min  | Plenaria. Resolución de dudas generales y siguientes pasos                                                                           |
