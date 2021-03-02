@@ -33,6 +33,10 @@ Por último, se proporciona un video introductorio sobre la diversidad forestal,
 
 Instrucciones para el primer reto del Hackathon: [Aquí puedes revisar la guía](https://docs.google.com/document/d/1ImMwB0PvvP6HSBb5wAku7GXBT8SO1tCNaaJozuOZhfQ/edit?usp=sharing). El reto se hará por equipos que organizaremos al principio de la sesión.
 
+Para crear vuestros notebook en Google Colab, podéis usar los siguientes enlaces:
+Google Colab en Python: https://colab.research.google.com/notebook#create=true
+Google Colab en R: https://colab.research.google.com/notebook#create=true&language=r. 
+
 Organización del primer día de Hackathon:
 
 | Horario | Contenido                                                                                                                            |
