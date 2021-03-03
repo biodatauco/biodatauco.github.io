@@ -63,3 +63,21 @@ Instrucciones para el segundo reto del Hackathon:[Aquí puedes revisar la guía]
 | 20 min  | Plenaria. Resolución de dudas generales                                                                                              |
 | 2.5 h   | Trabajo en grupo                                                                                                                     |
 | 20 min  | Plenaria. Resolución de dudas generales y siguientes pasos                                                                           |
+
+# Dónde recoger los obsequios del evento
+
+¡Ya podéis pasaros a recoger los obsequios del evento! Podréis recoger:
+* Camiseta
+* Alfombrilla de ratón para el ordenador
+* ~~Tazas~~ (¡próximamente! Os avisaremos en cuanto las tengamos para que os podáis pasar a por ellas)
+
+Podréis recogerlo todo en:
+```
+Edificio Albert Einstein (C2)
+3ª planta, pasillo norte (conforme se entra al rellano de la 3ª planta, detrás a la derecha)
+Laboratorio de investigación AYRNA
+```
+
+(Si no sabéis cómo llegar, podéis utilizar el [Buscador de rutas UCO](https://www.uco.es/buscadorderutasuco/index.php) para encontrar la ruta desde cualquier lugar del campus)
+
+Para los participantes de fuera de Córdoba, si os interesa recibir el material, poneos en contacto con nosotros (jbarbero@uco.es) e intentaremos enviároslo.
