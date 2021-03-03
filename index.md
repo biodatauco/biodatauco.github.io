@@ -31,8 +31,9 @@ El número máximo de inscritos es de 30 participantes.
 Merchandising disponible para todos los participantes.
 
 Se entregarán varios premios por categoría:
-- Representación gráfica de los datos
-- Interpretación de los resultados
-- Mejor ajuste del modelo
+- Premio BioDataUCO Hildegarda de Bingen
+- Accésit Hans Rosling: mejor presentación de datos. Gráficos
+- Accésit Akaike: Mejor ajuste del modelo
+- Accésit Lotka-Volterra: Mejor conceptualización e interpretación ecológica de los modelos
 
 ### Actividad incluida en el Proyecto de Innovación Docente de la Universidad de Córdoba (Ref: 2020-2-5003).
